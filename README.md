@@ -25,13 +25,13 @@ Make sure you have [Python](https://www.python.org/downloads/ "Python 2.7.x") in
 * Download the [Leap SDK (LTS)](https://developer.leapmotion.com/sdk/v2/ "Leap SDK (LTS)").
 
 * For 32-bit systems, run: 
-```bash
-sudo dpkg --install Leap-version-x86.deb
-```
+    ```bash
+    sudo dpkg --install Leap-version-x86.deb
+    ```
 * For 64-bit systems, run: 
-```bash
-sudo dpkg --install Leap-version-x64.deb
-```
+    ```bash
+    sudo dpkg --install Leap-version-x64.deb
+    ```
     > You may see an error message of leap.service, do not worry.
 
 ##### On Windows:
