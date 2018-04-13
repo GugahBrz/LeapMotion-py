@@ -78,5 +78,4 @@ sudo dpkg --install Leap-version-x64.deb
 - [Leap SDK (LTS)](https://developer.leapmotion.com/sdk/v2/ "Leap SDK (LTS)").
 
 ### Authors
-Geovana Godoy - [LinkedIn](https://br.linkedin.com/in/geovana-godoy-777763103 "LinkedIn Link")<br>
 Gustavo Zanoni - [LinkedIn](https://br.linkedin.com/in/gustavo-zanoni-6371a791 "LinkedIn Link")
