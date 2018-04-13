@@ -77,5 +77,5 @@ sudo dpkg --install Leap-version-x64.deb
 - [PyOpenGl Windows](https://pypi.python.org/pypi/PyOpenGL/3.0.2 "PyOpenGl Windows").
 - [Leap SDK (LTS)](https://developer.leapmotion.com/sdk/v2/ "Leap SDK (LTS)").
 
-### Authors
+### Author
 Gustavo Zanoni - [LinkedIn](https://br.linkedin.com/in/gustavo-zanoni-6371a791 "LinkedIn Link")
